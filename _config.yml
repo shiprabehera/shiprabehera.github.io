@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   CV: "cv.pdf"
   Blog:
-    - CSCI-5839: "blog/index.html"
+    - CSCI-5839: "csci5839"
     - Personal: "personal"
 
 # Image to show in the navigation bar - image must be a square (width = height)
