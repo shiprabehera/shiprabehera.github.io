@@ -22,8 +22,7 @@ description: Hey there! I'm a second year Masters student in the department of C
 navbar-links:
   About Me: "aboutme"
   CV: "cv.pdf"
-  Blog:
-    - CSCI-5839: "blog"
+  Blog: "blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
