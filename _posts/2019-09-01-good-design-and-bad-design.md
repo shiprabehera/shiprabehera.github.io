@@ -1,6 +1,3 @@
-## Week 1
-
-### Day 1 - Aug 27, 2019
 We had a short class-discussion about everyday objects and classifying them under good design and bad design. I brainstormed some of these ideas with my friend Telly and we came up with these examples.
 
 **Bad Design**
