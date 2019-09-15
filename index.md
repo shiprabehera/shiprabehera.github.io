@@ -6,8 +6,8 @@ css: "/css/index.css"
 meta-title: "Shipra Behera"
 meta-description: "student"
 bigimg:
-  - "/img/big-imgs/Arizona_2017a.jpg" : "Arizona, 2017"
-  - "/img/big-imgs/Arizona_2017b.jpg" : "Arizona, 2017"
+  - "/img/roya_arch.jpg" : "Royal Arch Trail, Boulder, Colorado"
+  - "/img/pondicherry.jpg" : "Pondicherry, Chennai, India"
   - "/img/big-imgs/MuskegSunset17.JPG" : "Winter Sunset, Muskeg, 2017"
   - "/img/big-imgs/Vancouver2.jpg" : "Vancouver Island, 2016"
   - "/img/big-imgs/Vancouver1.jpg" : "Vancouver Island, 2016"
@@ -56,11 +56,3 @@ bigimg:
   - "/img/big-imgs/SuperiorShip15.jpg" : "Ship on Lake Superior"
 ---
 
-<div style="text-align:center">
-<strong>Quick Links:</strong> &nbsp;&nbsp; 
-<a href="http://derekogle.com/fishR/" role="button" class="btn btn-primary">fishR</a> 
-<a href="http://derekogle.com/IFAR/" role="button" class="btn btn-primary">IFAR Book</a> 
-<a href="http://derekogle.com/NCMTH107/" role="button" class="btn btn-primary">MTH107</a> 
-<a href="http://derekogle.com/NCMTH207/" role="button" class="btn btn-primary">MTH207</a> 
-<a href="http://derekogle.com/NCHighways/" role="button" class="btn btn-primary">Highways</a> 
-</div>
