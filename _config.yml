@@ -22,6 +22,7 @@ description: Hey there! I'm a second year Masters student in the department of C
 navbar-links:
   About Me: "aboutme"
   CV: "cv.pdf"
+  Publications: "publications"
   Blog:
     - CSCI-5839: "csci5839"
     - Personal: "personal"
