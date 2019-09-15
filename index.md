@@ -10,12 +10,12 @@ bigimg:
   - "/img/pondicherry.jpg" : "Pondicherry, India"
   - "/img/hitachi.JPG" : "Hitachi Seaside Park, Japan"
   - "/img/bridge.jpg" : "Saitama, Japan"
-  - "/img/cu_fall.jpg" : "CU Boulder, Fall 2018"
-  - "/img/cu_snow" : "CU Boulder, Winter 2019"
+  - "/img/cu_fall.JPG" : "CU Boulder, Fall 2018"
+  - "/img/cu_snow.jpg" : "CU Boulder, Winter 2019"
   - "/img/maroonbells.jpg" : "Maroon Bells, Colorado"
-  - "/img/miyajima.jpg" : "Miyajima Island, Hiroshima"
+  - "/img/miyajima.JPG" : "Miyajima Island, Hiroshima"
   - "/img/sakura.jpg" : "Cherry Blossoms"
-  - "/img/hanginglake.jpg" : "Hanging Lake, Colorado"
+  - "/img/hanginglake.JPG" : "Hanging Lake, Colorado"
 
 ---
 
