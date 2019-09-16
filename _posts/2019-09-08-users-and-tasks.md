@@ -1,3 +1,10 @@
+---
+layout: post
+title: Users and Tasks
+image: ../img/csci5839/personas.jpeg
+show-avatar: true
+---
+
 ## Reading Assignment 2: Users and Tasks
 
 **Personas**
