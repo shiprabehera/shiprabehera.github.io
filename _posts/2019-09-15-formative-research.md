@@ -2,9 +2,8 @@
 layout: post
 title: Formative Research
 image: ../img/hitachi.JPG
-show-avatar: true	show-avatar: true
+show-avatar: true
 bigimg: ../img/hitachi.JPG
-
 ---
 ## Reading Assignment 2: Formative Research
 
