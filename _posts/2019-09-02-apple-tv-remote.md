@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Design charrette on the Apple TV Remote
-image: ../img/csci5839/appletvremote.jpg
+image: https://github.com/shiprabehera/shiprabehera.github.io/blob/master/img/csci5839/appletvremote.jpg
 show-avatar: true
 ---
 
