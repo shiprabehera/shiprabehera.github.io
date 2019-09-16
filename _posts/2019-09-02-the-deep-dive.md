@@ -1,3 +1,10 @@
+---
+layout: post
+title: The Deep Dive
+image: ../img/csci5839/ideo.jpg
+show-avatar: true
+---
+
 ## Reading Assignment 1: The Deep Dive
 [The Deep Dive](https://www.youtube.com/watch?v=2Dtrkrz0yoU)
 
@@ -7,6 +14,8 @@
 3. The child seat didn't make it probably because it doesn't looks secure enough to hold the child in place. Although shopping carts today have catered to child safety by adding straps.
 4. Walkie-talkie to talk to the staff is probably overdoing it, and this could be a real nightmare for the staff and this devie could be misused easily.
 5. The steerable back-wheels have been implemented because they allow for easy maneuvering of carts.
+
+<img src="../img/csci5839/ideo.jpg" align="center" height="300" width="300">
 
 **Who did the design team talk to? For each group of stakeholders that the designers talked to, explain why it was important to talk to them.**
 
