@@ -1,3 +1,9 @@
+---
+layout: post
+title: Design charrette on the Apple TV Remote
+image: ../img/csci5839/appletvremote.jpg
+show-avatar: true
+---
 **Design charrette on the Apple TV Remote**
 
 Problem Statement: 
