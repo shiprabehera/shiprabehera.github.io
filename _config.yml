@@ -22,7 +22,8 @@ description: Hey there! I'm a second year Masters student in the department of C
 navbar-links:
   About Me: "aboutme"
   CV: "cv.pdf"
-  Publications: "publications"
+  Publications: 
+    - On Iris Spoofing using Print Attack: "https://ieeexplore.ieee.org/document/6977007"
   Blog:
     - CSCI-5839: "csci5839"
     - Personal: "personal"
