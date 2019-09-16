@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good Design and Bad Design
-image: ../img/csci5839/argan.jpg
+image: ../img/csci5839/ideo.jpg
 show-avatar: true
 ---
 
