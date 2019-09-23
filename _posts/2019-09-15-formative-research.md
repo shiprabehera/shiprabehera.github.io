@@ -4,7 +4,7 @@ title: Formative Research
 image: ../img/csci5839/kit.jpg
 show-avatar: true
 ---
-## Reading Assignment 2: Formative Research
+## Reading Assignment 3: Formative Research
 
 I chose to read these two articles for this assignment:
 
