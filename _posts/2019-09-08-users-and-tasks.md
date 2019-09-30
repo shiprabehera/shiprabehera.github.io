@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Users and Tasks
-image: ../img/csci5839/personas.jpeg
+image: /img/csci5839/personas.jpeg
 show-avatar: true
 ---
 
