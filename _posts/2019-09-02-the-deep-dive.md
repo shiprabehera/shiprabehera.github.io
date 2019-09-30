@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Deep Dive
-image: ../img/csci5839/ideo.jpg
+image: /img/csci5839/ideo.jpg
 show-avatar: true
 ---
 
