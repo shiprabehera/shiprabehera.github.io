@@ -4,7 +4,6 @@ title: Personas for Google VR headset
 image: ../img/csci5839/vr.jpg
 show-avatar: true
 ---
-## Class Activity: Create personas for the Google VR headset
 
 <img src="../img/csci5839/sharonpersona.JPG" align="center" height="300" width="300">   
 Sharon Parker
