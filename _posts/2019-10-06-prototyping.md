@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Formative Research
+title: Prototyping
 image: ../img/csci5839/kit.jpg
 show-avatar: true
 ---
