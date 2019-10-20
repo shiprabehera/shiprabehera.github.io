@@ -23,7 +23,7 @@ Add clothes, select load, select water temperature, select wash cycle, select fa
 and finally add to dryer. 
 Too many options confuse and distract the user.
 
-Gulf of evalaution problem:
+Gulf of evaluation problem:
 
 Some washing machines do not indicate how much longer they'll take to finish washing, or what stage it is at. 
 
