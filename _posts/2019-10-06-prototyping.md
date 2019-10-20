@@ -1,4 +1,18 @@
-I read the following two papers to gain more insight on prototyping techniques.
+---
+layout: post
+title: Formative Research
+image: ../img/csci5839/kit.jpg
+show-avatar: true
+---
+## Reading Assignment 6: Prototyping
+
+I read the following two papers to gain more insight on prototyping techniques:
+
+[Beaudouin-Lafon and MacKay’s chapter on Prototyping Tools and TechniquesPreview the document from the HCI Handbook](https://canvas.colorado.edu/courses/56035/files/8228649/download?wrap=1)
+
+[Li et al’s Topiary](https://kilthub.cmu.edu/articles/Topiary_A_Tool_for_Prototyping_Location-Enhanced_Applications/6470561/files/11899118.pdf)
+
+
 
 We plan to use a combination of horizontal prototypes, beginning with rapid prototyping and progressing to non interactive simulations. 
 
