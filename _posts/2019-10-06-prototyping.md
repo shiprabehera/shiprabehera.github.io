@@ -1,0 +1,11 @@
+I read the following two papers to gain more insight on prototyping techniques.
+
+We plan to use a combination of horizontal prototypes, beginning with rapid prototyping and progressing to non interactive simulations. 
+
+For our course project, task-oriented prototype would be ideal as it would mirror the set of exact tasks the user would want to accomplish within the system. They combine the breadth of horizontal prototypes, to cover the functions required by those tasks, with the depth of vertical prototypes, enabling detailed analysis of how the tasks can be supported.
+
+Before spending a great deal of time in developing prototypes, we can do some rapid prototyping. Simple offline prototyping techniques like paper and pencil work well for any system and is the fastest way to get a quick idea of the system. 
+
+I found the Wizard of Oz technique really interesting as it gives the illusion of a working system to the user, and the designers can note how the user is interacting with the user.
+
+Going forward after few iterations, we can use some online prototyping techniques like the non-interactive simulation using a widely used tool. Interfaces can also be prototyped quickly with this approach, by drawing different states of the system in different cards and using buttons to switch from one card to the next.
