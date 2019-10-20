@@ -6,9 +6,11 @@ show-avatar: true
 ---
 ## Reading Assignment 4: Formative Interviews
 
-I chose to read these two articles for this assignment:
+I chose to read these articles for this assignment:
 [Interview and Focus Group chapter](http://www.sciencedirect.com.colorado.idm.oclc.org/science/book/9780128053904)
+
 [How Teens with Visual Impairments Take, Edit, and Share Photos on Social Media (Links to an external site.)](https://dl-acm-org.colorado.idm.oclc.org/citation.cfm?id=3173650)
+
 [Freedom to roam: a study of mobile device adoption and accessibility for people with visual and motor disabilities
  (Links to an external site.)](https://dl-acm-org.colorado.idm.oclc.org/citation.cfm?id=1639663)
 
