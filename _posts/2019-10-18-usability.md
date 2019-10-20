@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prototyping
+title: Usability
 image: ../img/csci5839/washing_machine.jpg
 show-avatar: true
 ---
