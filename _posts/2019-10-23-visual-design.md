@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Usability
+title: Visual Design
 image: ../img/csci5839/visual.jpg
 show-avatar: true
 ---
