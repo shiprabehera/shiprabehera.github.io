@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Personas for Google VR headset
-image: ../img/csci5839/vr.jpg
+image: /img/csci5839/vr.jpg
 show-avatar: true
 ---
 
