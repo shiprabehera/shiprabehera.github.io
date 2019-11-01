@@ -23,3 +23,8 @@ Before spending a great deal of time in developing prototypes, we can do some ra
 I found the Wizard of Oz technique really interesting as it gives the illusion of a working system to the user, and the designers can note how the user is interacting with the user.
 
 Going forward after few iterations, we can use some online prototyping techniques like the non-interactive simulation using a widely used tool. Interfaces can also be prototyped quickly with this approach, by drawing different states of the system in different cards and using buttons to switch from one card to the next.
+
+
+Task: Create a paper prototype for a study buddy app
+
+<img src="../img/csci5839/studybuddy.jpg" align="center" height="900" width="700">
