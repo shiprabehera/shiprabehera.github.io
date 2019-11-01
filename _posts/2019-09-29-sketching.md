@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sketching
-image: ../img/csci5839/okay.jpg
+image: /img/csci5839/okay.jpg
 show-avatar: true
 ---
 
