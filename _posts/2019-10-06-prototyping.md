@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prototyping
-image: ../img/csci5839/kit.jpg
+image: /img/csci5839/kit.jpg
 show-avatar: true
 ---
 ## Reading Assignment 6: Prototyping
