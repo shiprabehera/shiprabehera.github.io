@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Usability
-image: ../img/csci5839/washing_machine.jpg
+image: /img/csci5839/washing_machine.jpg
 show-avatar: true
 ---
 ## Reading Assignment 7: Usability
