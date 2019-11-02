@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Storyboard
-image: ../img/csci5839/storyicon.jpg
+image: ../img/csci5839/storyicon.png
 show-avatar: true
 ---
 
